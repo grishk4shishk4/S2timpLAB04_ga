@@ -1,0 +1,3 @@
+/home/userless/GithubProjects/S2timpLAB03/S2timpLAB03/solver_lib/_build/CMakeFiles/solver.dir
+/home/userless/GithubProjects/S2timpLAB03/S2timpLAB03/solver_lib/_build/CMakeFiles/edit_cache.dir
+/home/userless/GithubProjects/S2timpLAB03/S2timpLAB03/solver_lib/_build/CMakeFiles/rebuild_cache.dir
